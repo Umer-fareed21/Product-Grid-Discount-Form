@@ -70,17 +70,6 @@ for (let i = 0; i < products.length; i++) {
 
 productGrid.innerHTML = html;
 
-let coupon = [
-    {
-        cop1: 112233
-    },
-    {
-        cop1: 445566
-    },
-    {
-        cop1: 778899
-    }
-]
 
 function claculateHandler() {
 
